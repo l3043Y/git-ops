@@ -1,4 +1,5 @@
 # git-ops
+## Question 3
 1. Create a repository in the github
 ![image](https://github.com/l3043Y/git-ops/assets/20104217/0a577e11-ef4c-4423-95ed-e93e11595830)
 2. Upload a text file in github repo. 
@@ -39,3 +40,35 @@ resolved merge conflict
 Do you get any error or it works?
 ![image](https://github.com/l3043Y/git-ops/assets/20104217/68a337c6-2b22-4e9e-8dc2-c8be25786916)
 It works. I go no error
+
+## Question 1
+1. Create a new Repository in your Laptop.
+What is the default branch name in your local repository?
+Default branch is master
+![image](https://github.com/l3043Y/git-ops/assets/20104217/ff42477f-62ca-4f0e-a607-93b4f53014c9)
+![image](https://github.com/l3043Y/git-ops/assets/20104217/6e463cfc-7ce4-456c-bb46-79c344c9566d)
+
+3. Add a text file in your local repository.
+![image](https://github.com/l3043Y/git-ops/assets/20104217/3521cdc0-eea0-47cd-9b89-347750971a0a)
+
+4. Commit it.
+![image](https://github.com/l3043Y/git-ops/assets/20104217/831682a9-04fc-4ea1-9f69-53125ac48703)
+
+5. Create another repository in the github.
+What is the default branch name in your github repository?
+deafult branch is main
+![image](https://github.com/l3043Y/git-ops/assets/20104217/c5f159b1-2b57-4975-ad55-f7f4bd69416c)
+
+7. Add a text file in your local repository.
+![image](https://github.com/l3043Y/git-ops/assets/20104217/de38bc2b-2385-45fd-ba95-64dd60bd34ad)
+
+8. Commit it.
+![image](https://github.com/l3043Y/git-ops/assets/20104217/3352e2d5-7a52-40f5-92c4-6555e01a9f9b)
+
+9. PUSH your local repository to the github.
+In the github,It will merge with your existing branch or it creates a new branch. 
+![image](https://github.com/l3043Y/git-ops/assets/20104217/6e3d167c-be64-4228-b416-8b7f501e07b8)
+
+10. If we want that it always update the main branch what steps we need to follow?
+execute command
+`git pull`
